@@ -5,11 +5,11 @@
 
 ### 1.1 创建Maven Web项目
 
-![image-20191005093033112](/Users/chendan/Documents/image-20191005093033112.png)
+![image-20191005093033112](/20191005093033112.png)
 
 ​																		项目创建的目录结构
 
-![image-20191006095610732](/Users/chendan/Library/Application Support/typora-user-images/image-20191006095610732.png)
+![image-20191006095610732](/image-20191006095610732.png)
 
 ​																		项目的完整目录结构
 
@@ -75,9 +75,9 @@ public class Application {
 
 ```
 
-![image-20191005115720127](/Users/chendan/Library/Application Support/typora-user-images/image-20191005115720127.png)
+![image-20191005115720127](/image-20191005115720127.png)
 
-![image-20191005125401197](/Users/chendan/Library/Application Support/typora-user-images/image-20191005125401197.png)
+![image-20191005125401197](/image-20191005125401197.png)
 
 ### 1.5 导入thymeleaf模板
 
@@ -136,7 +136,7 @@ public class UserController {
 
 #### 	1.5.4运行Spring Boot启动类
 
-![image-20191005131200532](/Users/chendan/Library/Application Support/typora-user-images/image-20191005131200532.png)
+![image-20191005131200532](/image-20191005131200532.png)
 
 ## 二、Spring Boot与Shiro整合实现用户认证
 
