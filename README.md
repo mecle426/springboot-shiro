@@ -5,7 +5,7 @@
 
 ### 1.1 创建Maven Web项目
 
-![image-20191005093033112](/20191005093033112.png)
+![image-20191005093033112](/image-20191005093033112.png)
 
 ​																		项目创建的目录结构
 
@@ -792,7 +792,7 @@ public class UserRealm extends AuthorizingRealm {
 
 #### 	3.3.1 建立数据库
 
-![image-20191006094915797](/Users/chendan/Library/Application Support/typora-user-images/image-20191006094915797.png)
+![image-20191006094915797](/image-20191006094915797.png)
 
 #### 	3.3.2 修改domain实体类
 
